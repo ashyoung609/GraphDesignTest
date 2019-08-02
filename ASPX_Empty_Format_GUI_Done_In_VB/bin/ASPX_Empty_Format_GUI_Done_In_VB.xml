@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ASPX_Empty_Format_GUI_Done_In_VB
+</name>
+</assembly>
+<members>
+<member name="T:ASPX_Empty_Format_GUI_Done_In_VB.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:ASPX_Empty_Format_GUI_Done_In_VB.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:ASPX_Empty_Format_GUI_Done_In_VB.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:ASPX_Empty_Format_GUI_Done_In_VB.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:ASPX_Empty_Format_GUI_Done_In_VB.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:ASPX_Empty_Format_GUI_Done_In_VB.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Business._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Data._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._Calendar1">
+<summary>
+Calendar1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._CheckBox1">
+<summary>
+CheckBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._CheckBox2">
+<summary>
+CheckBox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._CheckBox3">
+<summary>
+CheckBox3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._CheckBox4">
+<summary>
+CheckBox4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._Enter">
+<summary>
+Enter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._txt_box_Info">
+<summary>
+txt_box_Info control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._lbl_sub_from_area">
+<summary>
+lbl_sub_from_area control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._txt_box_submit">
+<summary>
+txt_box_submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.Test_Environment._btn_cal_submit">
+<summary>
+btn_cal_submit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.User_Account_Setup._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:ASPX_Empty_Format_GUI_Done_In_VB.User_Account_Setup._MultiView1">
+<summary>
+MultiView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
